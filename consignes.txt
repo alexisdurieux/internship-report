@@ -1,0 +1,34 @@
+Stages ASI
+Consignes rapport de stage ingénieur
+
+Le rapport de stage doit faire entre minimum 40 et maximum 60 pages (annexes exclues).
+Vous devez fournir :
+
+Un exemplaire numérique déposé sur Moodle. Respectez la nomenclature suivante pour le nom de fichier : Nom_Prenom.pdf.
+
+Dans le cas ou un exemplaire numérique ne serait pas accepté par votre entreprise d'accueil (pour des raisons de confidentialité par ex), envoyer 3 exemplaires reliés au secrétariat ASI.
+Date de remise :
+
+Votre rapport devra être remis 15 jours avant la date de soutenance. Cette date vous sera confirmé aprés le remplissage du questionnaire en ligne.
+Rapport en Anglais :
+
+Dans le cas d'un stage à l'étranger, vous pouvez fournir un rapport en anglais. Néanmoins, votre rapport en anglais doit être accompagné d'un résumé d'une quinzaine de pages en français.
+Contenu et forme du rapport :
+
+Vous devez appliquer les règles de rédaction définies dans le guide des stages de l'INSA de Rouen, auxquelles le département ASI a ajouté les modifications suivantes:
+
+Police de caractères : police du corps de texte avec empattement de type "Times New Roman" (pourquoi des empattements)
+
+    Présentation de l'entreprise et de l'endroit où vous vous situez [4-6 pages]
+    Présentation du sujet du stage [2-4 pages].
+    Le travail effectué [30-45 pages]
+    Vous devez montrer les points conceptuels et techniques importants :
+        Étude du cahier des charges
+        Propositions et critiques de solutions
+        Description complète de la solution choisie
+        Mise en oeuvre
+        Résultats obtenus (critique)
+    Conclusion [1-3 pages]
+    Le sujet a-t-il été entièrement traité ? Que reste-t-il à faire ? Quelles sont les évolutions possibles ?, ...
+    Bibliographie [1-2 pages]
+    Le 4ème de couverture (page au dos du rapport) comporte deux résumés (français et anglais) d'une demi-page chacun.
